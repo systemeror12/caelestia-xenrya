@@ -1,4 +1,4 @@
-packages = ["caelestia-shell", "caelestia-cli"]
+packages = ["caelestia-shell", "caelestia-cli-xenrya"]
 post_install = [
     "test -f ${XDG_STATE_HOME:-$HOME/.local/state}/caelestia/scheme.json || caelestia scheme set -n caelestia",
     "caelestia shell -d >/dev/null",

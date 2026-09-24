@@ -25,7 +25,7 @@ Install the CLI from the AUR, then run `caelestia install`.
 For example:
 
 ```sh
-paru -S caelestia-cli
+paru -S caelestia-cli-xenrya
 caelestia install
 ```
 
@@ -258,4 +258,4 @@ You can find more information on configuring the shell and the CLI in their resp
 | `Ctrl + Super + Shift + R` | Kill shell    |
 
 [shell-repo]: https://github.com/caelestia-dots/shell
-[cli-repo]: https://github.com/caelestia-dots/cli
+[cli-repo]: https://github.com/systemeror12/caelestia-cli-xenrya
